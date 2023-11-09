@@ -1,0 +1,28 @@
+{
+  "text": [
+    {
+      "text": "Compose. Deploy. Innovate",
+      "color": "omegaDarker",
+      "variant": "h4"
+    },
+    {
+      "text": "A new era of AI applications",
+      "variant": "h1"
+    },
+    {
+      "text": "Embrace AI composability with BrainBlocks. Modular solutions span from supervised learning to deep, reinforcement, and neurosymbolic AI, supporting a wide range of applications.",
+      "color": "omegaDark",
+      "variant": "medium"
+    }
+  ],
+  "images": [
+    {
+      "src": "../../../assets/flexiblocks/homepage/saas/hero.png",
+      "alt": "alt text",
+      "radius": "lg",
+      "shadow": "default",
+      "border": "lg",
+      "effects": ["fadeInDown"]
+    }
+  ]
+}

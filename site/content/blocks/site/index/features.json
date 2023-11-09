@@ -1,0 +1,105 @@
+{
+  "text": [
+    {
+      "text": "BrainBlocks Features",
+      "color": "alpha",
+      "variant": "h4"
+    },
+    {
+      "text": "The Future of AI Composability",
+      "variant": "h2"
+    }
+  ],
+  "collection": [
+    {
+      "container": {
+        "variant": "cards.paper"
+      },
+      "text": [
+        {
+          "text": "Unified Interface",
+          "color": "omegaDarker",
+          "variant": "h5"
+        },
+        {
+          "text": "Craft, combine, and deploy AI units all from a singular, intuitive platform. Simplify your ML workflows, eliminating the need to juggle between multiple tools and frameworks."
+        }
+      ]
+    },
+    {
+      "container": {
+        "variant": "cards.paper"
+      },
+      "text": [
+        {
+          "text": "AI Applications Composability",
+          "color": "omegaDarker",
+          "variant": "h5"
+        },
+        {
+          "text": "Shift from traditional algorithmic methods to a paradigm of AI applications composability. Mix and match modular AI units to tailor-make solutions that fit your unique requirements."
+        }
+      ]
+    },
+    {
+      "container": {
+        "variant": "cards.paper"
+      },
+      "text": [
+        {
+          "text": "Broad AI Spectrum",
+          "color": "omegaDarker",
+          "variant": "h5"
+        },
+        {
+          "text": "BrainBlocks covers it all - from supervised machine learning, deep learning, reinforcement learning to the avant-garde realms of neurosymbolic AI. Choose, combine, and deploy with ease."
+        }
+      ]
+    },
+    {
+      "container": {
+        "variant": "cards.paper"
+      },
+      "text": [
+        {
+          "text": "Effortless Deployment",
+          "color": "omegaDarker",
+          "variant": "h5"
+        },
+        {
+          "text": "Say goodbye to deployment hassles. Whether you're deploying locally or on cloud platforms, BrainBlocks streamlines the process, ensuring your applications go live without a hitch."
+        }
+      ]
+    },
+    {
+      "container": {
+        "variant": "cards.paper"
+      },
+      "text": [
+        {
+          "text": "Model Explainability",
+          "color": "omegaDarker",
+          "variant": "h5"
+        },
+        {
+          "text": "Transparency is key. Dive deep into your models with our built-in explainability tools, ensuring you understand every decision and prediction made."
+        }
+      ]
+    },
+    {
+      "container": {
+        "variant": "cards.paper"
+      },
+      "text": [
+        {
+          "text": "Cloud Integration",
+          "color": "omegaDarker",
+          "variant": "h5"
+        },
+        {
+          "text": "BrainBlocks is designed for the modern era. Seamlessly integrate with popular cloud services, ensuring scalability and robustness for your AI applications."
+        }
+      ]
+    }
+  ]
+}

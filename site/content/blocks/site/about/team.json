@@ -1,0 +1,95 @@
+{
+  "text": [
+    {
+      "text": "Meet Our Talented Team",
+      "color": "alpha",
+      "variant": "h4"
+    },
+    {
+      "text": "Diverse Expertise, United Vision",
+      "variant": "h2"
+    }
+  ],
+  "collection": [
+    {
+      "text": [
+        {
+          "text": "Manolis Alivizatos",
+          "variant": "h6"
+        },
+        {
+          "text": "Chief Exectutive Officer"
+        },
+        {
+          "text": "Manolis Alivizatos, CEO of BrainBlocks, offers two decades of cross-sector tech expertise, from defense to health, and a patented data processing thesis. His leadership fuses technical savvy with entrepreneurial vision.",
+          "color": "omega",
+          "variant": "small"
+        }
+      ],
+      "avatar": {
+        "src": "../../../assets/flexiblocks/testimonials/malivizatos.webp",
+        "alt": "alt text"
+      }
+    },
+    {
+      "text": [
+        {
+          "text": "Georgios Douzas",
+          "variant": "h6"
+        },
+        {
+          "text": "Chief Technology Officer"
+        },
+        {
+          "text": "Georgios Douzas, CTO at BrainBlocks, applies his physics acumen to spearhead AI advancements, leveraging over a decade of tech development to propel BrainBlocks' technological drive.",
+          "color": "omega",
+          "variant": "small"
+        }
+      ],
+      "avatar": {
+        "src": "../../../assets/flexiblocks/testimonials/gdouzas.webp",
+        "alt": "alt text"
+      }
+    },
+    {
+      "text": [
+        {
+          "text": "Fernando Bacao",
+          "variant": "h6"
+        },
+        {
+          "text": "Chief Scientific Officer"
+        },
+        {
+          "text": "Fernando Bação, professor at NOVA IMS and BrainBlocks' Chief Scientific Officer, infuses our AI initiatives with his academic prowess in analytics and information systems management.",
+          "color": "omega",
+          "variant": "small"
+        }
+      ],
+      "avatar": {
+        "src": "../../../assets/flexiblocks/testimonials/fbacao.webp",
+        "alt": "alt text"
+      }
+    },
+    {
+      "text": [
+        {
+          "text": "Steven Katevatis",
+          "variant": "h6"
+        },
+        {
+          "text": "Chief Strategy Officer"
+        },
+        {
+          "text": "Steven Katevatis, with extensive legal expertise and a passion for tech innovation, serves as BrainBlocks' Chief Strategy Officer, guiding strategic decisions and legal frameworks for our pioneering tech solutions.",
+          "color": "omega",
+          "variant": "small"
+        }
+      ],
+      "avatar": {
+        "src": "../../../assets/flexiblocks/testimonials/skatevatis.webp",
+        "alt": "alt text"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "text": [
+    {
+      "text": "About Our Team",
+      "color": "omegaDarker",
+      "variant": "h1"
+    },
+    {
+      "text": "At BrainBlocks, our team is our greatest asset. We are a group of visionary technologists, seasoned data scientists, creative engineers, and strategic thinkers united by a shared passion for innovation in the field of artificial intelligence.",
+      "color": "omegaDark",
+      "variant": "medium"
+    }
+  ],
+  "images": [
+    {
+      "src": "../../../assets/flexiblocks/innerpage/about-us-01/hero.png",
+      "alt": "alt text",
+      "radius": "lg",
+      "shadow": "xl",
+      "effects": ["fadeInLeft"]
+    }
+  ],
+  "buttons": [
+    {
+      "text": "Contact Us",
+      "type": "MODAL",
+      "link": "contact",
+      "variant": "primary"
+    }
+  ]
+}

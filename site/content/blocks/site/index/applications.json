@@ -1,0 +1,287 @@
+{
+  "text": [
+    {
+      "text": "AI Applications",
+      "color": "alpha",
+      "variant": "h4"
+    },
+    {
+      "text": "Unbounded Potential with BrainBlocks",
+      "variant": "h2"
+    }
+  ],
+  "collection": [
+    {
+      "text": [
+        {
+          "text": "Visual Question Answering",
+          "color": "omegaDarker",
+          "variant": "h5"
+        },
+        {
+          "text": "Combine visual data with natural language processing to answer queries related to images."
+        }
+      ],
+      "icon": {
+        "src": "../../../assets/flexiblocks/icons/bx-analyse.svg",
+        "bg": "#D3E7FE",
+        "color": "#276BF0"
+      }
+    },
+    {
+      "text": [
+        {
+          "text": "Object Detection",
+          "color": "omegaDarker",
+          "variant": "h5"
+        },
+        {
+          "text": "Identify and locate objects within images or videos."
+        }
+      ],
+      "icon": {
+        "src": "../../../assets/flexiblocks/icons/bx-chat.svg",
+        "bg": "#FEFAD6",
+        "color": "#F4D133"
+      }
+    },
+    {
+      "text": [
+        {
+          "text": "Forecasting",
+          "color": "omegaDarker",
+          "variant": "h5"
+        },
+        {
+          "text": "Predict future trends and patterns using historical data."
+        }
+      ],
+      "icon": {
+        "src": "../../../assets/flexiblocks/icons/bx-dna.svg",
+        "bg": "#FEE8D1",
+        "color": "#F7491D"
+      }
+    },
+    {
+      "text": [
+        {
+          "text": "Sentiment Analysis",
+          "color": "omegaDarker",
+          "variant": "h5"
+        },
+        {
+          "text": "Determine the sentiment behind texts, understanding user reviews, feedback, and social media mentions."
+        }
+      ],
+      "icon": {
+        "src": "../../../assets/flexiblocks/icons/bx-directions.svg",
+        "bg": "#EBFDDA",
+        "color": "#64DB43"
+      }
+    },
+    {
+      "text": [
+        {
+          "text": "Recommendation Systems",
+          "color": "omegaDarker",
+          "variant": "h5"
+        },
+        {
+          "text": "Craft personalized recommendations for users based on their behavior and preferences. Ideal for e-commerce, content platforms, and advertising."
+        }
+      ],
+      "icon": {
+        "src": "../../../assets/flexiblocks/icons/bx-directions.svg",
+        "bg": "#EBFDDA",
+        "color": "#64DB43"
+      }
+    },
+    {
+      "text": [
+        {
+          "text": "Anomaly Detection",
+          "color": "omegaDarker",
+          "variant": "h5"
+        },
+        {
+          "text": "Spot unusual patterns in data, essential for fraud detection, system health monitoring, and quality assurance."
+        }
+      ],
+      "icon": {
+        "src": "../../../assets/flexiblocks/icons/bx-directions.svg",
+        "bg": "#EBFDDA",
+        "color": "#64DB43"
+      }
+    },
+    {
+      "text": [
+        {
+          "text": "Language Translation",
+          "color": "omegaDarker",
+          "variant": "h5"
+        },
+        {
+          "text": "Break language barriers by translating text or speech across multiple languages in real-time."
+        }
+      ],
+      "icon": {
+        "src": "../../../assets/flexiblocks/icons/bx-directions.svg",
+        "bg": "#EBFDDA",
+        "color": "#64DB43"
+      }
+    },
+    {
+      "text": [
+        {
+          "text": "Chatbots & Virtual Assistants",
+          "color": "omegaDarker",
+          "variant": "h5"
+        },
+        {
+          "text": "Enhance user interactions with intelligent chatbots capable of handling queries, support, and general conversation."
+        }
+      ],
+      "icon": {
+        "src": "../../../assets/flexiblocks/icons/bx-directions.svg",
+        "bg": "#EBFDDA",
+        "color": "#64DB43"
+      }
+    },
+    {
+      "text": [
+        {
+          "text": "Speech Recognition",
+          "color": "omegaDarker",
+          "variant": "h5"
+        },
+        {
+          "text": "Convert spoken language into text, enabling voice commands, transcription services, and voice search."
+        }
+      ],
+      "icon": {
+        "src": "../../../assets/flexiblocks/icons/bx-directions.svg",
+        "bg": "#EBFDDA",
+        "color": "#64DB43"
+      }
+    },
+    {
+      "text": [
+        {
+          "text": "Image Classification",
+          "color": "omegaDarker",
+          "variant": "h5"
+        },
+        {
+          "text": "Categorize images into predefined classes, aiding in image search, organization, and tagging."
+        }
+      ],
+      "icon": {
+        "src": "../../../assets/flexiblocks/icons/bx-directions.svg",
+        "bg": "#EBFDDA",
+        "color": "#64DB43"
+      }
+    },
+    {
+      "text": [
+        {
+          "text": "Text Summarization",
+          "color": "omegaDarker",
+          "variant": "h5"
+        },
+        {
+          "text": "Condense lengthy texts into concise summaries without losing the essence. Useful for news, research, and content aggregation."
+        }
+      ],
+      "icon": {
+        "src": "../../../assets/flexiblocks/icons/bx-directions.svg",
+        "bg": "#EBFDDA",
+        "color": "#64DB43"
+      }
+    },
+    {
+      "text": [
+        {
+          "text": "Face Recognition",
+          "color": "omegaDarker",
+          "variant": "h5"
+        },
+        {
+          "text": "Identify and verify individuals using facial features. Applicable in security, authentication, and personalized user experiences."
+        }
+      ],
+      "icon": {
+        "src": "../../../assets/flexiblocks/icons/bx-directions.svg",
+        "bg": "#EBFDDA",
+        "color": "#64DB43"
+      }
+    },
+    {
+      "text": [
+        {
+          "text": "Style Transfer",
+          "color": "omegaDarker",
+          "variant": "h5"
+        },
+        {
+          "text": "Apply artistic styles to images, blending the content of one image."
+        }
+      ],
+      "icon": {
+        "src": "../../../assets/flexiblocks/icons/bx-directions.svg",
+        "bg": "#EBFDDA",
+        "color": "#64DB43"
+      }
+    },
+    {
+      "text": [
+        {
+          "text": "Autonomous Navigation",
+          "color": "omegaDarker",
+          "variant": "h5"
+        },
+        {
+          "text": "Equip robots and drones with the capability to navigate complex environments autonomously, avoiding obstacles, and reaching specified destinations."
+        }
+      ],
+      "icon": {
+        "src": "../../../assets/flexiblocks/icons/bx-directions.svg",
+        "bg": "#EBFDDA",
+        "color": "#64DB43"
+      }
+    },
+    {
+      "text": [
+        {
+          "text": "Game Playing Agents",
+          "color": "omegaDarker",
+          "variant": "h5"
+        },
+        {
+          "text": "Develop agents that can play and master a variety of games, from classic board games to modern video games, by learning optimal strategies over time."
+        }
+      ],
+      "icon": {
+        "src": "../../../assets/flexiblocks/icons/bx-directions.svg",
+        "bg": "#EBFDDA",
+        "color": "#64DB43"
+      }
+    },
+    {
+      "text": [
+        {
+          "text": "Dynamic Pricing Optimization",
+          "color": "omegaDarker",
+          "variant": "h5"
+        },
+        {
+          "text": "Optimize pricing strategies in real-time based on market demand, competition, and other dynamic factors, maximizing revenue and profit margins."
+        }
+      ],
+      "icon": {
+        "src": "../../../assets/flexiblocks/icons/bx-directions.svg",
+        "bg": "#EBFDDA",
+        "color": "#64DB43"
+      }
+    }
+  ]
+}
