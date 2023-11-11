@@ -90,6 +90,26 @@
         "src": "../../../assets/flexiblocks/testimonials/skatevatis.webp",
         "alt": "alt text"
       }
+    },
+    {
+      "text": [
+        {
+          "text": "Nikolas Sgantzis",
+          "variant": "h6"
+        },
+        {
+          "text": "Research Scientist"
+        },
+        {
+          "text": "Nikolas Sgantzis, a forensic geneticist with a Ph.D. in Life Sciences, enhances BrainBlocks' life science applications through his expertise in DNA analysis and bioinformatics. His blend of academic and practical experience adds valuable insights to our team.",
+          "color": "omega",
+          "variant": "small"
+        }
+      ],
+      "avatar": {
+        "src": "../../../assets/flexiblocks/testimonials/nsgantzis.webp",
+        "alt": "alt text"
+      }
     }
   ]
 }
